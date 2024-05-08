@@ -12,6 +12,6 @@ The CNN model consisted of several convolutional layers followed by max-pooling 
 
 The dataset was split into training and testing sets, with a portion of the data reserved for validation to monitor model performance during training. The model was trained using the training set and evaluated on the test set to assess its generalization capability.
 
-After training for multiple epochs, the model achieved satisfactory performance metrics, including accuracy, precision, recall, and F1-score. Visualization techniques such as confusion matrices and ROC curves were employed to analyze the model's performance and identify areas for improvement.
+After training for multiple epochs, the model achieved satisfactory performance metrics, including accuracy, precision, recall, and F1-score. Visualization techniques such as confusion matrice was employed to analyze the model's performance and identify areas for improvement.
 
 In conclusion, the developed CNN model demonstrated promising results in accurately distinguishing between parasitized and uninfected cells. Further refinement and optimization could potentially enhance its performance for real-world applications in the diagnosis of infectious diseases.
